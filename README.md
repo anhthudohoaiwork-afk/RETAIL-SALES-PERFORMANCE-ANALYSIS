@@ -1,7 +1,7 @@
 # RETAIL-SALES-PERFORMANCE-ANALYSIS
 
 
-## 📊 About Dataset  
+## About Dataset  
 - **Rows:** 18,761  
 - **Columns:** 15  
   - *Sales ID, Created At, Quantity, Gross Sales, Discount, Tax, Net Sales, Product ID, Product Name, Category, Customer ID, Customer Name, Customer City, Customer State, Customer Source*  
@@ -79,7 +79,7 @@ You can preview it below and click the link to interact with the live version.
 
 ## 📊 Business Performance Overview (2016–2020)  
 
-### 🔹 By Time (Yearly & Quarterly)  
+### By Time (Yearly & Quarterly)  
 
 ![Revenue Over Time](images/revenue%20overtime.png)  
 
@@ -99,7 +99,7 @@ You can preview it below and click the link to interact with the live version.
 - **Late 2018 – early 2019**: Another **53.5% decline**, partly due to *early COVID-19 impact & weak discount strategy*.  
 - **Q1–2020 → Q2–2020**: Steepest revenue drop during **COVID-19 crisis**; business reacted too slowly (*still operating in “High” discount range*).
 
-## 🏷️ By Product & Category 
+## By Product & Category 
 
 ![Top 10 Revenue by Product](images/top%2010%20revenue%20by%20product.png)  
 
@@ -112,7 +112,7 @@ You can preview it below and click the link to interact with the live version.
   - Widget shows **low sensitivity to discount**, making it *more resilient*.  
   - Other categories’ revenue is **discount-driven**.
  
-  ## 🌍 By Geo-Locations
+  ## By Geo-Locations
 
 ![Revenue by Geo-Locations](images/revenue%20by%20geo%20.png)  
 
@@ -131,7 +131,7 @@ You can preview it below and click the link to interact with the live version.
 - **Niche luxury markets** (high AOV, low revenue) → potential for experimentation but *not for scale*.  
 
 
-## 👥 By Customer Source  
+## By Customer Source  
 
 ![Revenue by Customer Source](images/revenue%20by%20customer%20source.png) 
 
@@ -145,7 +145,7 @@ You can preview it below and click the link to interact with the live version.
 - **Google Search** demonstrates efficiency in capturing high-intent customers.  
 - **Affiliate lags** behind but could be optimized to improve performance.  
 
-## 🔄 Customer Retention & Discount Impact  
+## Customer Retention & Discount Impact  
 
 ![Optimal Discount Range](images/optimal%20discount%20range.png)  
 
