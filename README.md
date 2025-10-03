@@ -8,6 +8,14 @@
 - **Time Range:** 01/10/2016 – 09/04/2020  
 - **Data Type:** Transaction-level retail sales data  
 
+## 📊 Interactive Dashboard
+
+This project also includes an **interactive dashboard** for exploring stock data.  
+You can preview it below and click the link to interact with the live version.
+
+[![Dashboard Preview](images/dashboard%20preview.png)](https://lookerstudio.google.com/u/0/reporting/e17e5b93-9c07-4ee5-9d0a-091b78eaee6c)
+
+
 ---
 
 ## 🎯 Business Objectives  
